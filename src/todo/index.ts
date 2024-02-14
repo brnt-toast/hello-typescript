@@ -1,2 +1,3 @@
-var message = "Hello, World";
-console.log(message);
+let hello = document.body.getElementsByTagName('h1')
+
+console.log(hello)
